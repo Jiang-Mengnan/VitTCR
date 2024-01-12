@@ -163,3 +163,8 @@ Required:
 | CASSFNRAMNTEAFF | YVLDHLIVV |
 * cdr3b: amino acid sequence of CDR3bs
 * peptide: amino acid sequence of epitopes
+
+
+
+Related datasets and trained model parameters are deposited in Google Cloud Drive: 
+https://drive.google.com/drive/folders/1PAS23boq9v5pjeaFu08FKLqjvT5P2ABe?usp=sharing

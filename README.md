@@ -4,6 +4,7 @@ VitTCR: A deep learning method for peptide recognition prediction Jiang, M., Yu,
 
 ## Introduction 
 VitTCR is a deep learning-based method specifically designed to predict the interactions between epitopes and the CDR3β region of TCRs.
+![VitTCR](./img/vittcr.png)
 * Original mode: original setting (path to code: ./vittcr/orig/code)
 * Cluster-based filtering of datasets: clustered setting (path to code: ./vittcr/clustered/code)
 * PBWM integration mode: pbwm setting (path to code: ./vittcr/pbwm/code)

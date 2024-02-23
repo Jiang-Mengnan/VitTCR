@@ -1,5 +1,5 @@
 # VitTCR
-VitTCR: A deep learning method for peptide recognition prediction Jiang, M., Yu, Z., Lan, X. et al. 2023.
+VitTCR: A deep learning method for peptide recognition prediction
 
 
 ## Introduction 
